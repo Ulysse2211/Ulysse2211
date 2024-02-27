@@ -1,5 +1,3 @@
-<div style="text-align:center;">
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> About Me
 
 Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning and participating to small projects.<br>You can hit me up to <ulysse2211@legendmc.fr>.
@@ -46,6 +44,3 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ulysse2211&icon=6&color=4)](https://visitcount.itsvg.in)
-
-
-</div>
