@@ -29,6 +29,10 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 ### What I'm planing to learn
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![RubyOnRails](https://img.shields.io/badge/Ruby%20on%20Rails-%23FF000.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
