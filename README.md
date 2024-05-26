@@ -23,6 +23,8 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Ruby](https://img.shields.io/badge/ruby-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ### What I'm planing to learn
 
