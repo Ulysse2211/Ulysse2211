@@ -1,4 +1,4 @@
-u# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> About Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> About Me
 
 Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning and participating to small projects.<br>You can hit me up to <ulysse2211@legendmc.fr>.
 
