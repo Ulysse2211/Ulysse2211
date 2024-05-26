@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> About Me
+u# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> About Me
 
 Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning and participating to small projects.<br>You can hit me up to <ulysse2211@legendmc.fr>.
 
@@ -32,8 +32,7 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![RubyOnRails](https://img.shields.io/badge/Ruby%20on%20Rails-%23FF0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![RubyOnRails](https://img.shields.io/badge/Ruby%20on%20Rails-%23FF0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
