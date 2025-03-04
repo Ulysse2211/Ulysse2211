@@ -41,7 +41,7 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ulysse2211&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ulysse2211&theme=nord)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ulysse2211&icon=6&color=4)](https://visitcount.itsvg.in)
