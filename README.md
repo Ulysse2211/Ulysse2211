@@ -37,7 +37,7 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 
 ![](https://github-readme-stats.vercel.app/api?username=ulysse2211&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ulysse2211&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulysse2211&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulysse2211&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> GitHub Trophies
 
