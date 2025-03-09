@@ -47,4 +47,5 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 ![](https://github-profile-trophy.vercel.app/?username=ulysse2211&theme=nord)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ulysse2211&icon=6&color=4)](https://visitcount.itsvg.in)
+[![](https://profile-counter.glitch.me/ulysse2211/count.svg)]()
+<!-- [![](https://visitcount.itsvg.in/api?id=ulysse2211&icon=6&color=4)](https://visitcount.itsvg.in) -->
