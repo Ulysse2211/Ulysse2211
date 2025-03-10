@@ -38,14 +38,15 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ulysse2211&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ulysse2211&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ulysse2211&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulysse2211&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulysse2211&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ulysse2211&theme=nord)
-
+---
+[![Discord Presence](https://lanyard.cnrad.dev/api/1096122001124511806)](https://discord.com/users/1096122001124511806)
 ---
 [![](https://profile-counter.glitch.me/ulysse2211/count.svg)]()
 <!-- [![](https://visitcount.itsvg.in/api?id=ulysse2211&icon=6&color=4)](https://visitcount.itsvg.in) -->
