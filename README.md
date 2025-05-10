@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> About Me
 
-Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning and participating to small projects.<br>You can hit me up to <contact@ulysse.gl>.
+Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning and participating to small projects.<br>You can hit me up at <contact@ulysse.gl>.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="35" height="35" /> Socials
 
@@ -50,3 +50,10 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 ---
 [![](https://profile-counter.glitch.me/ulysse2211/count.svg)]()
 <!-- [![](https://visitcount.itsvg.in/api?id=ulysse2211&icon=6&color=4)](https://visitcount.itsvg.in) -->
+<details>
+<summary></summary>
+<br>
+  <a href="https://github.com/STY1001">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="15" height="15"/> Somebody I love very much 👀
+  </a>
+</details>
