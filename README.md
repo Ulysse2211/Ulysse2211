@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> About Me
 
-Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning and participating to small projects.<br>You can hit me up at <contact@ulysse.gl>.
+Hey, I'm Ulysse, A student passionated by computers, tech, security, and electronics.<br><br>I'm still learning and participating to small projects.<br>You can hit me up at <contact@ulysse.gl>, or on discord.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="35" height="35" /> Socials
 
@@ -26,15 +26,12 @@ Hey, I'm Ulysse, A student passionated by computers.<br><br>I'm still learning a
 ### What I'm learning
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-%23650399.svg?style=for-the-badge&logoColor=white&logo=.net&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-%23ba02b1.svg?style=for-the-badge&logoColor=white&logo=.net&logoColor=white)
 
-![Ruby](https://img.shields.io/badge/ruby-%23ff0000.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ### What I'm planing to learn
 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![RubyOnRails](https://img.shields.io/badge/Ruby%20on%20Rails-%23FF0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+PHP, More security concepts, and in depth electronics, as well as IoT devices development, as in kiosks and machines embedded in our lives.
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
